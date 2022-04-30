@@ -1,6 +1,6 @@
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seieric" height="240px">
-<img src="https://github-readme-stats.vercel.app/api?username=seieric&show_icons=true" height="240px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seieric" height="200px">
+<img src="https://github-readme-stats.vercel.app/api?username=seieric&show_icons=true" height="200px">
 </p>
 
 ## my repositories
